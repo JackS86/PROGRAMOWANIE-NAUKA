@@ -1,0 +1,1 @@
+console.log("podpięty skrypt");
